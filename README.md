@@ -1,5 +1,7 @@
-Global Data Professional Survey Analysis Portfolio Project (NLP + ML)
+#Global Data Professional Survey Analysis Portfolio Project (NLP + ML)
+
 #📂 Complete Project Structure
+
 survey-analysis-nlp-ml
 │
 ├── dataset
