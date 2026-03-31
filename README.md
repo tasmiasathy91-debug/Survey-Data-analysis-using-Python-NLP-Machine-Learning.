@@ -8,19 +8,5 @@ This project is perfect for:
 •	Generate actionable business insights 
 
 # End-to-End Flow Summary
+<img width="254" height="381" alt="7 Capture" src="https://github.com/user-attachments/assets/fa370c54-d0f7-4ec0-9e8b-ab36707f3518" />
 
-Data Collection
-   ↓
-Data Cleaning
-   ↓
-EDA
-   ↓
-Feature Engineering
-   ↓
-NLP Processing
-   ↓
-Feature Selection
-   ↓
-Model Training
-   ↓
-Evaluation
